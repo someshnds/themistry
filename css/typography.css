@@ -1,0 +1,127 @@
+body {
+  font-family: "Inconsolata", monospace;
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: 400; }
+
+h1 {
+  font-size: 70px;
+  line-height: 82px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700; }
+
+h2 {
+  font-size: 70px;
+  line-height: 82px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700; }
+
+h3 {
+  font-size: 18px;
+  line-height: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700; }
+
+h4 {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600; }
+
+.menu-btn {
+  font-size: 18px;
+  line-height: 30px; }
+
+.site-btn {
+  font-size: 14px;
+  line-height: 24px;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  font-weight: 700; }
+
+.description-page {
+  font-weight: 700; }
+
+.form-wrapper .site-input {
+  font-size: 12px;
+  line-height: 18px; }
+
+.contact-title {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700; }
+
+.contact-text {
+  font-size: 14px;
+  line-height: 24px;
+  color: #696969; }
+
+.contact-footer-text, .portfolio-name, .content-box {
+  font-size: 14px;
+  line-height: 21px; }
+
+.second-title {
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif; }
+
+.footer-timer > div {
+  font-family: "Poppins", sans-serif;
+  font-size: 50px;
+  line-height: 82px;
+  font-weight: 700;
+  margin-right: 15px; }
+
+.footer-timer > div:last-child {
+  margin-right: 0; }
+
+.footer-timer > div span {
+  font-size: 20px; }
+
+.main-countdown > div {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 100px;
+  line-height: 82px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700; }
+
+.main-countdown > div span {
+  font-size: 24px; }
+
+.vertical-form-title {
+  font-size: 36px;
+  line-height: 54px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700; }
+
+.vertical-form-p, .modal-p {
+  font-size: 14px;
+  line-height: 21px; }
+
+.vertical-form-wrapper .transparent-input, .horizontal-form-wrapper .transparent-input {
+  font-size: 12px; }
+
+.vertical-form-wrapper input[type=submit], .horizontal-form-wrapper input[type=submit] {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif; }
+
+.modal-title {
+  font-size: 36px;
+  line-height: 48px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700; }
+
+.modal-form .site-input {
+  font-size: 12px; }
+
+.contact-single .contact-icon {
+  font-size: 18px; }
+
+.about-page-wrapper .contact-single .contact-icon {
+  font-size: 24px; }
+
+/*# sourceMappingURL=maps/typography.css.map */

@@ -1,0 +1,126 @@
+.wrapper {
+  /*background: url(../media/bg/bg-product-showcase.jpg) no-repeat center left;*/
+  background-size: cover; 
+    background-color: #122731;
+    background-image: linear-gradient(315deg, #07587e 0%, #0e2a38 74%);    
+    
+}
+
+.wrapper:before {
+  display: none; }
+
+.main-content-left {
+  display: inline-block;
+  vertical-align: middle;
+  width: 54%; }
+
+.main-content-right {
+  display: inline-block;
+  vertical-align: middle;
+  width: 45%; }
+
+.main-content-right img {
+  width: 100%; }
+
+.main-title h1 {
+  color: #ffff; }
+
+.main-title h1 span {
+  color: #f9a61a; }
+
+.description, .copyright, .menu-btn span {
+  color: #ffff; }
+.footer-buttons a {
+  
+    filter: brightness(0) invert(1);
+}
+.site-btn {
+  background: #eb597a; }
+
+.site-btn:hover {
+  background: #df5474; }
+
+.footer-buttons a.linkedin-link {
+  background: url(../images/linkedin-logo-button-gray.png) no-repeat center; }
+
+.footer-buttons a.facebook-link {
+  background: url(../images/facebook-logo-button-gray.png) no-repeat center; }
+
+.footer-buttons a.google-link {
+  background: url(../images/google-plus-logo-button-gray.png) no-repeat center; }
+
+.menu-btn:before, .menu-btn:after {
+  background: #696969; }
+
+.slick-dots {
+  display: block !important; }
+
+.slick-dots li.slick-active button {
+  background: #eb597a; }
+
+.contact-page-wrapper .flex-box {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center; }
+
+.contact-page .form-wrapper {
+  margin: 0; }
+
+.contact-page {
+  -webkit-box-shadow: 0 7px 32px 0 rgba(0, 0, 0, 0.35);
+  box-shadow: 0 7px 32px 0 rgba(0, 0, 0, 0.35); }
+
+@media (max-width: 1550px) {
+  .main-content {
+    margin: 70px 150px 107px; }
+  .footer-content {
+    margin: 0 150px; } }
+
+@media (max-width: 1350px) {
+  .main-content {
+    margin: 70px 110px 107px; }
+  .footer-content {
+    margin: 0 110px; } }
+
+@media (max-width: 1180px) {
+  .main-content-right {
+   /* display: none; */}
+  .main-content-left {
+    width: 100%; } }
+
+@media (max-height: 740px) {
+  .main-content {
+    margin-top: 30px; } }
+
+@media (min-width: 992px) {
+  .contact-page-wrapper .flex-box {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center; } }
+
+@media (max-width: 991px) {
+  .main-content {
+    margin: 107px 25px; }
+  .footer-content {
+    margin: 0 25px; } }
+
+@media (max-width: 767px) {
+  .main-content {
+    margin: 107px 5px;
+    
+      text-align: center;
+  }
+  .footer-content {
+    margin: 0 5px; } }
+
+@media (max-width: 500px) {
+  .main-content {
+    margin: 100px 5px 180px; } }
+
+/*# sourceMappingURL=maps/product_showcase.css.map */

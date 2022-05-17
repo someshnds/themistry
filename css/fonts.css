@@ -1,0 +1,21 @@
+/*------------------------------------------------------------------
+[Table of contents]
+
+ - Font Conv_DeHangster
+
+- Project:    Soony - HTML Template
+- Version:    1.0
+- Author:     Andrey Sokoltsov
+- Profile:    http://themeforest.net/user/andreysokoltsov
+
+-------------------------------------------------------------------*/
+
+/** Font Conv_DeHangster **/
+@font-face {
+	font-family: 'Conv_DeHangster-Regular';
+	src: url('../fonts/DeHangster-Regular.eot');
+	src: local('☺'), url('../fonts/DeHangster-Regular.woff') format('woff'), url('../fonts/DeHangster-Regular.ttf') format('truetype'), url('../fonts/DeHangster-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+

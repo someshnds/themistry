@@ -1,0 +1,175 @@
+@media (max-width: 1600px) {
+  .contact-box {
+    padding: 80px 10px 80px 70px; }
+  .contact-single {
+    width: 170px;
+    padding: 36px 10px 0; }
+  .contact-info {
+    margin: 0 -10px 48px; }
+  .contact-single .contact-icon {
+    left: 10px; } }
+
+@media (max-width: 1199px) {
+  .main-content {
+    margin: 107px 145px; }
+  .footer-content {
+    margin: 0 145px; }
+  .flex-box {
+    display: block;
+    overflow: auto; }
+  .contact-box {
+    height: auto; }
+  #map {
+    height: 600px; }
+  .contact-box-inner {
+    max-width: initial; }
+  .main-countdown > div {
+    font-size: 82px;
+    line-height: 82px; } }
+
+@media (max-width: 991px) {
+  .menu-btn {
+    max-height: initial;
+    max-width: 428px;
+    padding: 0 10px; }
+  .menu-btn:before {
+    left: 10px;
+    top: 48%;
+    height: 1px;
+    width: 150px; }
+  .menu-btn:after {
+    right: 10px;
+    top: 48%;
+    left: initial;
+    bottom: initial;
+    height: 1px;
+    width: 150px; }
+  .menu-btn.about-btn {
+    -webkit-writing-mode: initial;
+    -ms-writing-mode: initial;
+    writing-mode: initial;
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+    left: 0;
+    right: 0;
+    top: 35px;
+    bottom: initial; }
+  .menu-btn.contact-btn {
+    -webkit-writing-mode: initial;
+    -ms-writing-mode: initial;
+    writing-mode: initial;
+    left: 0;
+    right: 0;
+    top: initial;
+    bottom: 35px; }
+  .menu-btn span {
+    padding: 0 10px; }
+  .main-content {
+    margin: 107px 25px; }
+  .footer-content {
+    margin: 0 25px; }
+  .page-popup {
+    padding: 0; }
+  .footer {
+    padding-bottom: 70px; }
+  .close-icon {
+    top: 15px;
+    left: 15px; }
+  .contact-box-inner {
+    max-width: initial; }
+  .portfolio-box {
+    width: 50%; }
+  .submit-holder .site-btn {
+    width: 100%; }
+  .contact-box {
+    padding: 20px 40px 80px; }
+  .contact-page {
+    padding: 60px 15px 0; } }
+
+@media (max-width: 767px) {
+  .portfolio-boxes {
+    text-align: center; }
+  .portfolio-name {
+    text-align: left; }
+  .main-content {
+    margin: 107px 5px;
+    max-width: initial; }
+  .footer-content {
+    margin: 0 5px; }
+h1, h2 {
+    font-size: 35px;
+    line-height: 60px;
+}
+  .menu-btn.about-btn {
+    top: 25px; }
+  .menu-btn.contact-btn {
+    bottom: 25px; }
+  .description-page {
+    font-size: 16px; }
+  .contact-box {
+    padding: 45px 45px 45px 45px; }
+  .close-icon {
+    top: 5px;
+    left: 5px; }
+  .contact-box {
+    padding: 20px 20px 80px; }
+  .contact-page {
+    padding: 40px 15px 0; }
+  .main-countdown > div {
+    font-size: 50px;
+    line-height: 44px;
+    height: 50px; }
+  .footer-timer {
+    min-width: initial; } }
+
+@media (max-width: 500px) {
+  .menu-btn:before, .menu-btn:after {
+    width: 30%; }
+  .footer-content .pull-right {
+    float: none !important;
+    width: 100%;
+    text-align:center !important;
+      
+  }
+  .footer-content .pull-left {
+    float: none !important;
+    width: 100%; 
+        text-align:center !important;
+  }
+  .footer-buttons {
+    margin-bottom: 10px; }
+  .main-content {
+    margin: 100px 5px 180px; }
+  #map {
+    height: 300px; }
+  .portfolio-box {
+    width: 100%; }
+  .slick-dots {
+    bottom: 30px; }
+  .main-countdown {
+    margin-bottom: 30px; }
+  .main-countdown > div {
+    font-size: 28px;
+    line-height: 18px;
+    height: 28px; }
+  .main-countdown > div span {
+    font-size: 16px; }
+  .modal:before {
+    display: none; }
+  .main-title h1 br {
+    display: none; } }
+
+@media (max-width: 400px) {
+  .form-holder .screen-input {
+    max-width: 140px; }
+  .form-holder .site-btn {
+    min-width: initial;
+    width: 141px; }
+  .modal-body {
+    padding: 80px 20px; }
+  .modal-title {
+    font-size: 28px;
+    line-height: 36px; } }
+
+/*# sourceMappingURL=maps/responsive.css.map */
